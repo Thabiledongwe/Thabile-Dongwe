@@ -1,7 +1,8 @@
 # Hi, I'm Thabile 👋
 
 **Appointment Setter & Patient Intake Specialist | Telehealth**
-Based in Istanbul, available for US business hours.
+
+Based in Istanbul, Türkiye, available for US business hours.
 
 I help healthcare practices keep schedules full and patients on track. For 1.5+ years I've worked with a US telehealth provider, guiding patients from first contact to a confirmed appointment.
 
