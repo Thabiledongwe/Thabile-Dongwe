@@ -21,7 +21,7 @@ I help healthcare practices keep schedules full and patients on track. For 1.5+ 
 6. **Remind:** confirm two days before, with an easy way to reschedule
 
 ## Sample confirmation message (fictional)
-> Hi Alex, this is Thabile from [Clinic Name]. I'm confirming your visit on Thursday at 2:00 PM. You'll get a video link by email an hour before, and the visit takes about 15 minutes. If that time no longer works, reply here and I'll offer two new times.
+> Hi Alex, this is Thabile from Openloop clinic. I'm confirming your visit on Thursday at 2:00 PM. You'll get a video link by email an hour before, and the visit takes about 15 minutes. If that time no longer works, reply here and I'll offer two new times.
 
 ## Tools
 Zoho Desk (CRM) · EHR/EMR · Google Workspace · Microsoft Excel · Outlook · Slack · Zoom · Notion
