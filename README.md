@@ -31,4 +31,7 @@ Zoho Desk (CRM) · EHR/EMR · Google Workspace · Microsoft Excel · Outlook · 
 HIPAA Training Certificate (2026)
 
 ## Get in touch
+
+🎧 Voice introduction: https://drive.google.com/file/d/1JtrMxnppFfkyrC4dwmyqt4OYJzL7cQ3G/view?usp=drivesdk
+
 📧 thabiledongwe9@gmail.com · 💼 LinkedIn: https://www.linkedin.com/in/thabile-dongwe/
