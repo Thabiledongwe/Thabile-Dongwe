@@ -34,4 +34,6 @@ HIPAA Training Certificate (2026)
 
 🎧 Voice introduction: https://drive.google.com/file/d/1JtrMxnppFfkyrC4dwmyqt4OYJzL7cQ3G/view?usp=drivesdk
 
+🎬 Sample call video: https://drive.google.com/file/d/17taEZybab_p0Wp-rbnvE5mP_D8HPR8zH/view?usp=sharing
+
 📧 thabiledongwe9@gmail.com · 💼 LinkedIn: https://www.linkedin.com/in/thabile-dongwe/
